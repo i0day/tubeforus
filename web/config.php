@@ -5,5 +5,5 @@ define('GJ_CODE', 'US');
 define('SITE_NAME', '耗子视频');
 define('TITLENAME', '耗子视频');
 define('EN2DEKEY', 'woaihaozi023295hGapdnv1');
-define('EMAIL', 'test@gmail.com');
+define('EMAIL', 'nanchangren@gmail.com');
 ?>
