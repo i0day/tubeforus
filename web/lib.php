@@ -1,7 +1,7 @@
 <?php
 /**
- * Youtube Proxy 
- * Simple Youtube PHP Proxy Server
+ * 
+ * Simple PHP Proxy Server
  * @author ZXQ
  * @version V1.2
  * @description 核心操作函数集合
